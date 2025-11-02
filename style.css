@@ -1,0 +1,12 @@
+p { font-family: times new roman; color: red; font-size: 20px; }
+.image-london {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 16px;
+}
+.image-london img {
+  width: 100%;
+  max-width: 500px; 
+  height: auto; 
+}
